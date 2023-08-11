@@ -36,4 +36,7 @@ any images, colors, and styles, although it is not required.*
 *D.  Add an “About” page to the application to describe your chosen customer’s company to web viewers and include navigation 
 to and from the “About” page and the main screen.*
 
-    1. 
+    1. Created "about.html" file.
+    2. Added a new method inside the MainScreenControllerr.java file on lines 55-62 to handle requests to the About page 
+       and requests back to the mainscreen from the About page.
+    3. Added a link to the About page on line 21, and a <hr> tag on line 22.
