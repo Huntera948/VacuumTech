@@ -56,3 +56,19 @@ products. When duplicate items are added, make a “multi-pack” part.*
     4. Updated line 11 of application.properties to: "spring.jpa.hibernate.ddl-auto=create-drop".
 
 ---
+F.  Add a “Buy Now” button to your product list. Your “Buy Now” button must meet each of the following parameters:
+
+•   The “Buy Now” button must be next to the buttons that update and delete products.
+
+•   The button should decrement the inventory of that product by one. It should not affect the inventory of any of the associated parts.
+
+•   Display a message that indicates the success or failure of a purchase.
+
+    1. mainscreen.html: Added lines 87-90: Added Buy Now buttons, mapped to /buyProduct. Added hidden input field for
+       passing tempProduct.id to controller.
+    2. BuyProductController.java: New file. Decrements Inventory by 1 after Buy Now buttons are clicked. Uses findById
+       method for this. Contains logic to make sure inventory is greater than 0.
+    3. purchase-error.html: Created this file for Purchase Error message.
+    4. purchase-success.html: Created this file for Purchase Success message.
+
+---
