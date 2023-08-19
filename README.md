@@ -72,3 +72,31 @@ F.  Add a “Buy Now” button to your product list. Your “Buy Now” button m
     4. purchase-success.html: Created this file for Purchase Success message.
 
 ---
+G. Modify the parts to track maximum and minimum inventory by doing the following:
+
+•   Add additional fields to the part entity for maximum and minimum inventory.
+
+•   Modify the sample inventory to include the maximum and minimum fields.
+
+•   Add to the InhousePartForm and OutsourcedPartForm forms additional text inputs for the inventory so the user can set the maximum and minimum values.
+
+•   Rename the file the persistent storage is saved to.
+
+•   Modify the code to enforce that the inventory is between or at the minimum and maximum value.
+
+    1. Part.java: Added lines 31-34: added minInv and maxInv fields with @Min annotation.
+    2. Part.java: Added lines 50,55,56: updated constructor to include minInv and maxInv.
+    3. Part.java: Added lines 116-120: added getters and setters for minInv and maxInv.
+    4. BootStrapData.java: Added lines 72,73,80,81,88,89,96,97,104,105: added setters for minInv and maxInv fields in 
+       Parts sample inventory.
+    5. InhousePartForm.html: Added lines 34-42 to add minInv and maxInv fields. Added labels to other fields on lines
+       16-33.
+    6. OustourcedPartForm.html: Added lines 35-43 to add minInv and maxInv fields. Added labels to other fields on lines
+       17-34.
+    7. application.properties: Updated line 6 to read: "spring.datasource.url=jdbc:h2:file:~/vacuum-db".
+    8. Deleted spring-boot-h2-db102.mv.db file.
+    9. Part.java: Added lines 121-123: added method to check if inventory is valid based on min and max values.
+    10. AddInhousePartController.java: Added lines 42-44: added inventory validation logic to submitForm method.
+    11. OutsourcedPartController.java: Added lines 43-45: added inventory validation logic to submitForm method.
+
+---

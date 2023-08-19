@@ -69,30 +69,40 @@ public class BootStrapData implements CommandLineRunner {
             vacuumFilter.setInv(100);
             vacuumFilter.setPrice(9.99);
             vacuumFilter.setId(1);
+            vacuumFilter.setMinInv(90);
+            vacuumFilter.setMaxInv(110);
 
             InhousePart vacuumBelt = new InhousePart();
             vacuumBelt.setName("Vacuum Belt");
             vacuumBelt.setInv(6);
             vacuumBelt.setPrice(4.99);
             vacuumBelt.setId(2);
+            vacuumBelt.setMinInv(5);
+            vacuumBelt.setMaxInv(100);
 
             InhousePart extensionHose = new InhousePart();
             extensionHose.setName("Extension Hose");
             extensionHose.setInv(200);
             extensionHose.setPrice(14.99);
             extensionHose.setId(3);
+            extensionHose.setMinInv(5);
+            extensionHose.setMaxInv(300);
 
             InhousePart brushRoll = new InhousePart();
             brushRoll.setName("Brush Roll");
             brushRoll.setInv(75);
             brushRoll.setPrice(19.99);
             brushRoll.setId(4);
+            brushRoll.setMinInv(5);
+            brushRoll.setMaxInv(300);
 
             InhousePart dustBag = new InhousePart();
             dustBag.setName("Dust Bag");
             dustBag.setInv(150);
             dustBag.setPrice(2.99);
             dustBag.setId(5);
+            dustBag.setMinInv(5);
+            dustBag.setMaxInv(300);
 
             partRepository.save(vacuumFilter);
             partRepository.save(vacuumBelt);
