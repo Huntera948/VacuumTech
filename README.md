@@ -116,3 +116,11 @@ H. Add validation for between or at the maximum and minimum fields. The validati
     4. ValidEnufParts.java: Updated line 20: made error message more accurate.
 
 ---
+I.  Add at least two unit tests for the maximum and minimum fields to the PartTest class in the test package.
+
+    1. PartTest.java: Added lines 159-166: set minInv to 5. Used partIn to set value, then used assertEquals to make sure
+       it works. Did the same with partOut.
+    2. PartTest.java: Added lines 167-174: set maxInv to 100. Used partIn to set value, then used assertEquals to make sure
+       it works. Did the same with partOut.
+    3. Ran both tests with success.
+---
