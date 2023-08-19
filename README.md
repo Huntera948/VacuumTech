@@ -124,3 +124,6 @@ I.  Add at least two unit tests for the maximum and minimum fields to the PartTe
        it works. Did the same with partOut.
     3. Ran both tests with success.
 ---
+J.  Remove the class files for any unused validators in order to clean your code.
+
+    1. All validators have at least one usage.
