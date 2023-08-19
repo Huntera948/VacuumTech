@@ -97,6 +97,22 @@ G. Modify the parts to track maximum and minimum inventory by doing the followin
     8. Deleted spring-boot-h2-db102.mv.db file.
     9. Part.java: Added lines 121-123: added method to check if inventory is valid based on min and max values.
     10. AddInhousePartController.java: Added lines 42-44: added inventory validation logic to submitForm method.
-    11. OutsourcedPartController.java: Added lines 43-45: added inventory validation logic to submitForm method.
+    11. AddOutsourcedPartController.java: Added lines 43-45: added inventory validation logic to submitForm method.
+
+---
+H. Add validation for between or at the maximum and minimum fields. The validation must include the following:
+
+•   Display error messages for low inventory when adding and updating parts if the inventory is less than the minimum number of parts.
+
+•   Display error messages for low inventory when adding and updating products lowers the part inventory below the minimum.
+
+•   Display error messages when adding and updating parts if the inventory is greater than the maximum.
+
+    1. AddInhousePartController.java: Added lines 42-46: added more specific inventory validation logic to submitForm method.
+       Error messages now display when the inventory is below the minimum or above the maximum.
+    2. AddOutsourcedPartController.java: Added lines 43-47: added more specific inventory validation logic to submitForm method.
+       Error messages now display when the inventory is below the minimum or above the maximum.
+    3. EnufPartsValidator.java: Added lines 38-42: added logic to check if any parts for product would fall below their minimum.
+    4. ValidEnufParts.java: Updated line 20: made error message more accurate.
 
 ---
