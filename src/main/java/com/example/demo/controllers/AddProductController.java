@@ -147,15 +147,14 @@ public class AddProductController {
             theModel.addAttribute("product", product1);
             theModel.addAttribute("assparts", product1.getParts());
 
+        } catch (RuntimeException e) {
+            theModel.addAttribute("error", e.getMessage());
+        } finally {
             List<Part> availParts = new ArrayList<>();
             for (Part p : partService.findAll()) {
                 if (!product1.getParts().contains(p)) availParts.add(p);
             }
             theModel.addAttribute("availparts", availParts);
-
-        } catch (RuntimeException e) {
-            theModel.addAttribute("error", e.getMessage());
-        } finally {
             theModel.addAttribute("product", product1);
         }
         return "productForm";
