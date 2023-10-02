@@ -114,6 +114,8 @@ H. Add validation for between or at the maximum and minimum fields. The validati
        Error messages now display when the inventory is below the minimum or above the maximum.
     3. EnufPartsValidator.java: Added lines 38-42: added logic to check if any parts for product would fall below their minimum.
     4. ValidEnufParts.java: Updated line 20: made error message more accurate.
+    5. Product.java: Added lines 82-94: added addPart and removePart methods.
+    6. AddProductController.java: Added lines 134-136 & 158-160: updated each of these methods to use the new methods in the updated Product class.
 
 ---
 I.  Add at least two unit tests for the maximum and minimum fields to the PartTest class in the test package.

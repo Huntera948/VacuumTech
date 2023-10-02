@@ -131,6 +131,9 @@ public class AddProductController {
     public String associatePart(@Valid @RequestParam("partID") int theID, Model theModel){
     //    theModel.addAttribute("product", product);
     //    Product product1=new Product();
+        Part part = partService.findById(theID);
+        product1.addPart(part);
+        partService.save(part);
         if (product1.getName()==null) {
             return "saveproductscreen";
         }
@@ -152,6 +155,9 @@ public class AddProductController {
     }
     @GetMapping("/removepart")
     public String removePart(@RequestParam("partID") int theID, Model theModel){
+        Part part = partService.findById(theID);
+        product1.removePart(part);
+        partService.save(part);
         theModel.addAttribute("product", product);
       //  Product product1=new Product();
         product1.getParts().remove(partService.findById(theID));

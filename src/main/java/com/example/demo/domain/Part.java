@@ -88,6 +88,13 @@ public abstract class Part implements Serializable {
         this.inv = inv;
     }
 
+    public void decreaseInventory(int amount) {
+        this.inv -= amount;
+        if (this.inv < this.minInv) {
+            // Display error message for low inventory
+        }
+    }
+
     public Set<Product> getProducts() {
         return products;
     }

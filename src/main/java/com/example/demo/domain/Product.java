@@ -79,6 +79,19 @@ public class Product implements Serializable {
         this.inv = inv;
     }
 
+    public void addPart(Part part) {
+        if (part.getInv() - this.inv < 0) {
+            throw new RuntimeException("Low inventory for part: " + part.getName());
+        }
+        this.parts.add(part);
+        part.setInv(part.getInv() - this.inv);
+    }
+
+    public void removePart(Part part) {
+        this.parts.remove(part);
+        part.setInv(part.getInv() + this.inv);
+    }
+
     public Set<Part> getParts() {
         return parts;
     }
