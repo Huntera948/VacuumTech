@@ -49,7 +49,6 @@ public class ProductServiceImpl implements ProductService{
             theProduct = result.get();
         }
         else {
-            // we didn't find the product id
             throw new RuntimeException("Did not find part id - " + theId);
         }
 

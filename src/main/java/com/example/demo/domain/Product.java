@@ -81,7 +81,7 @@ public class Product implements Serializable {
 
     public boolean hasLowInventory() {
         for (Part part : parts) {
-            if (part.getInv() < part.getMinInv()) {  // Update this line
+            if (part.getInv() < part.getMinInv()) {
                 return true;
             }
         }

@@ -99,7 +99,6 @@ public class AddProductController {
         Product theProduct = repo.findById(theId);
         product1=theProduct;
     //    this.product=product;
-        //set the employ as a model attibute to prepopulate the form
         theModel.addAttribute("product", theProduct);
         theModel.addAttribute("assparts",theProduct.getParts());
         List<Part>availParts=new ArrayList<>();
@@ -107,7 +106,6 @@ public class AddProductController {
             if(!theProduct.getParts().contains(p))availParts.add(p);
         }
         theModel.addAttribute("availparts",availParts);
-        //send over to our form
         return "productForm";
     }
 
@@ -129,8 +127,6 @@ public class AddProductController {
     public AddProductController(PartService partService) {
         this.partService = partService;
     }
-// make the add and remove buttons work
-
     @GetMapping("/associatepart")
     public String associatePart(@Valid @RequestParam("partID") int theID, Model theModel){
     //    theModel.addAttribute("product", product);
