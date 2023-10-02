@@ -79,6 +79,15 @@ public class Product implements Serializable {
         this.inv = inv;
     }
 
+    public boolean hasLowInventory() {
+        for (Part part : parts) {
+            if (part.getInv() < part.getMinInv()) {  // Update this line
+                return true;
+            }
+        }
+        return false;
+    }
+
     public void addPart(Part part) {
         if (part.getInv() - this.inv < 0) {
             throw new RuntimeException("Low inventory for part: " + part.getName());

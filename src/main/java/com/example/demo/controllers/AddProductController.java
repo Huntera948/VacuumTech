@@ -14,6 +14,8 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.GetMapping;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -28,6 +30,8 @@ public class AddProductController {
     @Autowired
     private ApplicationContext context;
     private PartService partService;
+    @Autowired
+    private ProductService productService;
     private List<Part> theParts;
     private static Product product1;
     private Product product;
@@ -132,26 +136,29 @@ public class AddProductController {
     //    theModel.addAttribute("product", product);
     //    Product product1=new Product();
         Part part = partService.findById(theID);
-        product1.addPart(part);
-        partService.save(part);
-        if (product1.getName()==null) {
-            return "saveproductscreen";
+        try {
+            product1.addPart(part);
+            partService.save(part);
+            product1.getParts().add(part);
+            part.getProducts().add(product1);
+            productService.save(product1);
+            partService.save(part);
+
+            theModel.addAttribute("product", product1);
+            theModel.addAttribute("assparts", product1.getParts());
+
+            List<Part> availParts = new ArrayList<>();
+            for (Part p : partService.findAll()) {
+                if (!product1.getParts().contains(p)) availParts.add(p);
+            }
+            theModel.addAttribute("availparts", availParts);
+
+        } catch (RuntimeException e) {
+            theModel.addAttribute("error", e.getMessage());
+        } finally {
+            theModel.addAttribute("product", product1);
         }
-        else{
-        product1.getParts().add(partService.findById(theID));
-        partService.findById(theID).getProducts().add(product1);
-        ProductService productService = context.getBean(ProductServiceImpl.class);
-        productService.save(product1);
-        partService.save(partService.findById(theID));
-        theModel.addAttribute("product", product1);
-        theModel.addAttribute("assparts",product1.getParts());
-        List<Part>availParts=new ArrayList<>();
-        for(Part p: partService.findAll()){
-            if(!product1.getParts().contains(p))availParts.add(p);
-        }
-        theModel.addAttribute("availparts",availParts);
-        return "productForm";}
- //        return "confirmationassocpart";
+        return "productForm";
     }
     @GetMapping("/removepart")
     public String removePart(@RequestParam("partID") int theID, Model theModel){

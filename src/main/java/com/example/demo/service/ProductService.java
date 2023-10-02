@@ -12,6 +12,7 @@ import java.util.List;
  *
  */
 public interface ProductService {
+    String validateInventory(Product product);
     public List<Product> findAll();
     public Product findById(int theId);
     public void save (Product theProduct);

@@ -18,6 +18,13 @@ import java.util.Optional;
  */
 @Service
 public class ProductServiceImpl implements ProductService{
+    @Override
+    public String validateInventory(Product product) {
+        if (product.hasLowInventory()) {
+            return "Inventory is too low for one or more parts.";
+        }
+        return null;
+    }
     private ProductRepository productRepository;
 
     @Autowired

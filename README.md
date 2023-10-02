@@ -116,6 +116,13 @@ H. Add validation for between or at the maximum and minimum fields. The validati
     4. ValidEnufParts.java: Updated line 20: made error message more accurate.
     5. Product.java: Added lines 82-94: added addPart and removePart methods.
     6. AddProductController.java: Added lines 134-136 & 158-160: updated each of these methods to use the new methods in the updated Product class.
+    7. Product.java: Added lines 82-90: added a mthod to check if inventory of associated parts go below min val. 
+    8. AddProductController.java: Added lines 17-18: added necessary import statements.
+    9. AddProductController.java: Added lines 33-34: added ProductService to Product controller.
+    10. AddProductController.java: Updated/Added lines 139-161: modified associatePart method to use try/catch/finally functionality for error handling.
+    11. ProductServiceImpl.java: Added lines 21-27: Added a method to validate the inventory.
+    12. ProductService.java: Added line 15: Added the validateInventory method to the interface.
+    13. productForm.html: Added lines 73-75: Added a palce to display the error message.
 
 ---
 I.  Add at least two unit tests for the maximum and minimum fields to the PartTest class in the test package.
