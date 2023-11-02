@@ -1,0 +1,142 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddInhousePartController.java</file>
+  <line>28</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddInhousePartController java.lang.String showFormAddInhousePart(org.springframework.ui.Model theModel)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <hints />
+  <description>Method &lt;code&gt;showFormAddInhousePart()&lt;/code&gt; always returns &lt;code&gt;InhousePartForm&lt;/code&gt;</description>
+  <highlighted_element>showFormAddInhousePart</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddOutsourcedPartController.java</file>
+  <line>28</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddOutsourcedPartController java.lang.String showFormAddOutsourcedPart(org.springframework.ui.Model theModel)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <hints />
+  <description>Method &lt;code&gt;showFormAddOutsourcedPart()&lt;/code&gt; always returns &lt;code&gt;OutsourcedPartForm&lt;/code&gt;</description>
+  <highlighted_element>showFormAddOutsourcedPart</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>36</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String showFormAddPart(org.springframework.ui.Model theModel)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <hints />
+  <description>Method &lt;code&gt;showFormAddPart()&lt;/code&gt; always returns &lt;code&gt;productForm&lt;/code&gt;</description>
+  <highlighted_element>showFormAddPart</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>92</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String showProductFormForUpdate(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <hints />
+  <description>Method &lt;code&gt;showProductFormForUpdate()&lt;/code&gt; always returns &lt;code&gt;productForm&lt;/code&gt;</description>
+  <highlighted_element>showProductFormForUpdate</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>111</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String deleteProduct(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <hints />
+  <description>Method &lt;code&gt;deleteProduct()&lt;/code&gt; always returns &lt;code&gt;confirmationdeleteproduct&lt;/code&gt;</description>
+  <highlighted_element>deleteProduct</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>154</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String removePart(int theID, org.springframework.ui.Model theModel)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <hints />
+  <description>Method &lt;code&gt;removePart()&lt;/code&gt; always returns &lt;code&gt;productForm&lt;/code&gt;</description>
+  <highlighted_element>removePart</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>44</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <hints />
+  <description>Method &lt;code&gt;listPartsandProducts()&lt;/code&gt; always returns &lt;code&gt;mainscreen&lt;/code&gt;</description>
+  <highlighted_element>listPartsandProducts</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>56</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String about()" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <hints />
+  <description>Method &lt;code&gt;about()&lt;/code&gt; always returns &lt;code&gt;about&lt;/code&gt;</description>
+  <highlighted_element>about</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>60</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String backToMain()" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <hints />
+  <description>Method &lt;code&gt;backToMain()&lt;/code&gt; always returns &lt;code&gt;redirect:/mainscreen&lt;/code&gt;</description>
+  <highlighted_element>backToMain</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/ProductController.java</file>
+  <line>18</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.ProductController java.lang.String buyProduct(java.lang.Long productId, org.springframework.web.servlet.mvc.support.RedirectAttributes redirectAttributes)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <hints />
+  <description>Method &lt;code&gt;buyProduct()&lt;/code&gt; always returns &lt;code&gt;redirect:/mainscreen&lt;/code&gt;</description>
+  <highlighted_element>buyProduct</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>10</length>
+</problem>
+</problems>

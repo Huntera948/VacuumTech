@@ -1,0 +1,52 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/README.md</file>
+  <line>54</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/README.md" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>This word is normally spelled as one.</description>
+  <highlighted_element>multi-pack</highlighted_element>
+  <language>Markdown</language>
+  <offset>50</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/README.md</file>
+  <line>76</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/README.md" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>Consider simply using of instead.</description>
+  <highlighted_element>of any of</highlighted_element>
+  <language>Markdown</language>
+  <offset>105</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>34</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="class" FQNAME="com.example.demo.controllers.MainScreenControllerr" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>Possible typo: you repeated a word</description>
+  <highlighted_element>PartRepository partRepository</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>34</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="class" FQNAME="com.example.demo.controllers.MainScreenControllerr" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>Possible typo: you repeated a word</description>
+  <highlighted_element>ProductRepository productRepository</highlighted_element>
+  <language>JAVA</language>
+  <offset>66</offset>
+  <length>35</length>
+</problem>
+</problems>

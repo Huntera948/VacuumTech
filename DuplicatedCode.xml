@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>42</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String showFormAddPart(org.springframework.ui.Model theModel)" />
+  <problem_class id="DuplicatedCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Duplicated code fragment</problem_class>
+  <description>Duplicate code: lines 42-48</description>
+  <highlighted_element>List&lt;Part&gt;availParts=new ArrayList&lt;&gt;();</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>39</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>59</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String submitForm(com.example.demo.domain.Product product, org.springframework.validation.BindingResult bindingResult, org.springframework.ui.Model theModel)" />
+  <problem_class id="DuplicatedCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Duplicated code fragment</problem_class>
+  <description>Duplicate code: lines 59-65</description>
+  <highlighted_element>List&lt;Part&gt;availParts=new ArrayList&lt;&gt;();</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>39</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>99</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String showProductFormForUpdate(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="DuplicatedCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Duplicated code fragment</problem_class>
+  <description>Duplicate code: lines 99-107</description>
+  <highlighted_element>theModel.addAttribute(&quot;product&quot;, theProduct);</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>45</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>140</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String associatePart(int theID, org.springframework.ui.Model theModel)" />
+  <problem_class id="DuplicatedCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Duplicated code fragment</problem_class>
+  <description>Duplicate code: lines 140-150</description>
+  <highlighted_element>ProductService productService = context.getBean(ProductServiceImpl.class);</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>74</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>159</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String removePart(int theID, org.springframework.ui.Model theModel)" />
+  <problem_class id="DuplicatedCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Duplicated code fragment</problem_class>
+  <description>Duplicate code: lines 159-169</description>
+  <highlighted_element>ProductService productService = context.getBean(ProductServiceImpl.class);</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>74</length>
+</problem>
+</problems>

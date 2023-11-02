@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>67</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String submitForm(com.example.demo.domain.Product product, org.springframework.validation.BindingResult bindingResult, org.springframework.ui.Model theModel)" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (3 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>132</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String associatePart(int theID, org.springframework.ui.Model theModel)" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (2 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>34</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="class" FQNAME="com.example.demo.controllers.MainScreenControllerr" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (4 lines)</description>
+  <highlighted_element>/*</highlighted_element>
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>2</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java</file>
+  <line>39</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddPartController java.lang.String showPartFormForUpdate(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="IfStatementMissingBreakInLoop" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Early loop exit in 'if' condition</problem_class>
+  <description>Loop can be terminated after condition is met</description>
+  <highlighted_element>if</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>2</length>
+</problem>
+</problems>

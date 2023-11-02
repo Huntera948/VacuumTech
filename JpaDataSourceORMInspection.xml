@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/domain/Part.java</file>
+  <line>20</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="class" FQNAME="com.example.demo.domain.Part" />
+  <problem_class id="JpaDataSourceORMInspection" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Unresolved database references in annotations</problem_class>
+  <description>Cannot resolve column 'part_type'</description>
+  <highlighted_element>part_type</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/domain/Part.java</file>
+  <line>21</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="class" FQNAME="com.example.demo.domain.Part" />
+  <problem_class id="JpaDataSourceORMInspection" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Unresolved database references in annotations</problem_class>
+  <description>Cannot resolve table 'PARTS'</description>
+  <highlighted_element>PARTS</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/domain/Part.java</file>
+  <line>39</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.domain.Part products" />
+  <problem_class id="JpaDataSourceORMInspection" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Unresolved database references in annotations</problem_class>
+  <description>Cannot resolve table 'product_part'</description>
+  <highlighted_element>product_part</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/domain/Part.java</file>
+  <line>39</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.domain.Part products" />
+  <problem_class id="JpaDataSourceORMInspection" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Unresolved database references in annotations</problem_class>
+  <description>Cannot resolve column 'part_id'</description>
+  <highlighted_element>part_id</highlighted_element>
+  <language>JAVA</language>
+  <offset>68</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/domain/Part.java</file>
+  <line>40</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.domain.Part products" />
+  <problem_class id="JpaDataSourceORMInspection" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Unresolved database references in annotations</problem_class>
+  <description>Cannot resolve column 'product_id'</description>
+  <highlighted_element>product_id</highlighted_element>
+  <language>JAVA</language>
+  <offset>49</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/domain/Product.java</file>
+  <line>19</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="class" FQNAME="com.example.demo.domain.Product" />
+  <problem_class id="JpaDataSourceORMInspection" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Unresolved database references in annotations</problem_class>
+  <description>Cannot resolve table 'Products'</description>
+  <highlighted_element>Products</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+</problem>
+</problems>

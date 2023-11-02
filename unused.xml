@@ -1,0 +1,333 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java</file>
+  <line>32</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddPartController java.lang.String showPartFormForUpdate(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints />
+  <description>Variable &lt;code&gt;repo&lt;/code&gt; is never used</description>
+  <highlighted_element>repo</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>31</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.AddProductController theParts" />
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>8</length>
+  <highlighted_element>theParts</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>31</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenControllerr theParts" />
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>8</length>
+  <highlighted_element>theParts</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>32</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenControllerr theProducts" />
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>11</length>
+  <highlighted_element>theProducts</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/domain/Part.java</file>
+  <line>24</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.domain.Part companyName" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>11</length>
+  <highlighted_element>companyName</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/domain/Part.java</file>
+  <line>46</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.Part Part(java.lang.String name, double price, int inv)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+  <highlighted_element>Part</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/domain/Part.java</file>
+  <line>105</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.Part void setMinInv(int minInv)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+  <highlighted_element>setMinInv</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/domain/Part.java</file>
+  <line>114</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.Part void setMaxInv(int maxInv)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+  <highlighted_element>setMaxInv</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InhousePartService.java</file>
+  <line>19</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.InhousePartService void deleteById(int theId)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+  <highlighted_element>deleteById</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InventoryService.java</file>
+  <line>24</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.InventoryService void addSampleInventory()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>18</length>
+  <highlighted_element>addSampleInventory</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/OutsourcedPartService.java</file>
+  <line>18</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.OutsourcedPartService void deleteById(int theId)" />
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>10</length>
+  <highlighted_element>deleteById</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/PartService.java</file>
+  <line>21</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.PartService void addPart(com.example.demo.domain.Part part)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>7</length>
+  <highlighted_element>addPart</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/ProductService.java</file>
+  <line>15</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.ProductService java.util.List&lt;com.example.demo.domain.Product&gt; findAll()" />
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>7</length>
+  <highlighted_element>findAll</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/ValidDeletePart.java</file>
+  <line>12</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.validators.ValidDeletePart java.lang.String message()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+  <highlighted_element>message</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/ValidDeletePart.java</file>
+  <line>13</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.validators.ValidDeletePart java.lang.Class&lt;?&gt;[] groups()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>6</length>
+  <highlighted_element>groups</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/ValidDeletePart.java</file>
+  <line>14</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.validators.ValidDeletePart java.lang.Class&lt;? extends javax.validation.Payload&gt;[] payload()" />
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>7</length>
+  <highlighted_element>payload</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/repositories/InhousePartRepositoryTest.java</file>
+  <line>38</line>
+  <module>demo</module>
+  <package>com.example.demo.repositories</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.repositories.InhousePartRepositoryTest void findAll()" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints />
+  <description>Variable &lt;code&gt;parts&lt;/code&gt; is never used</description>
+  <highlighted_element>parts</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/InhousePartServiceTest.java</file>
+  <line>42</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.InhousePartServiceTest void findAll()" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints />
+  <description>Variable &lt;code&gt;parts&lt;/code&gt; is never used</description>
+  <highlighted_element>parts</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InventoryService.java</file>
+  <line>16</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="class" FQNAME="com.example.demo.service.InventoryService" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>16</length>
+  <highlighted_element>InventoryService</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/DeletePartValidator.java</file>
+  <line>15</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="class" FQNAME="com.example.demo.validators.DeletePartValidator" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>19</length>
+  <highlighted_element>DeletePartValidator</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/repositories/InhousePartRepositoryTest.java</file>
+  <line>35</line>
+  <module>demo</module>
+  <package>com.example.demo.repositories</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.repositories.InhousePartRepositoryTest void findAll()" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;List&lt;/code&gt; #loc</description>
+  <highlighted_element>List</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/repositories/InhousePartRepositoryTest.java</file>
+  <line>35</line>
+  <module>demo</module>
+  <package>com.example.demo.repositories</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.repositories.InhousePartRepositoryTest void findAll()" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;ArrayList&lt;/code&gt; #loc</description>
+  <highlighted_element>ArrayList</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/InhousePartServiceTest.java</file>
+  <line>39</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.InhousePartServiceTest void findAll()" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;List&lt;/code&gt; #loc</description>
+  <highlighted_element>List</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/InhousePartServiceTest.java</file>
+  <line>39</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.InhousePartServiceTest void findAll()" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;ArrayList&lt;/code&gt; #loc</description>
+  <highlighted_element>ArrayList</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>9</length>
+</problem>
+</problems>

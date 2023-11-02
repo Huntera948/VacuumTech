@@ -1,0 +1,132 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/domain/PartTest.java</file>
+  <line>142</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.PartTest void testEquals()" />
+  <problem_class id="LongLiteralsEndingWithLowercaseL" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'long' literal ending with 'l' instead of 'L'</problem_class>
+  <description>'long' literal &lt;code&gt;1l&lt;/code&gt; ends with lowercase 'l' #loc</description>
+  <highlighted_element>1l</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/domain/PartTest.java</file>
+  <line>144</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.PartTest void testEquals()" />
+  <problem_class id="LongLiteralsEndingWithLowercaseL" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'long' literal ending with 'l' instead of 'L'</problem_class>
+  <description>'long' literal &lt;code&gt;1l&lt;/code&gt; ends with lowercase 'l' #loc</description>
+  <highlighted_element>1l</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/domain/PartTest.java</file>
+  <line>146</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.PartTest void testEquals()" />
+  <problem_class id="LongLiteralsEndingWithLowercaseL" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'long' literal ending with 'l' instead of 'L'</problem_class>
+  <description>'long' literal &lt;code&gt;1l&lt;/code&gt; ends with lowercase 'l' #loc</description>
+  <highlighted_element>1l</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/domain/PartTest.java</file>
+  <line>148</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.PartTest void testEquals()" />
+  <problem_class id="LongLiteralsEndingWithLowercaseL" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'long' literal ending with 'l' instead of 'L'</problem_class>
+  <description>'long' literal &lt;code&gt;1l&lt;/code&gt; ends with lowercase 'l' #loc</description>
+  <highlighted_element>1l</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/domain/PartTest.java</file>
+  <line>155</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.PartTest void testHashCode()" />
+  <problem_class id="LongLiteralsEndingWithLowercaseL" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'long' literal ending with 'l' instead of 'L'</problem_class>
+  <description>'long' literal &lt;code&gt;1l&lt;/code&gt; ends with lowercase 'l' #loc</description>
+  <highlighted_element>1l</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/domain/PartTest.java</file>
+  <line>156</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.PartTest void testHashCode()" />
+  <problem_class id="LongLiteralsEndingWithLowercaseL" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'long' literal ending with 'l' instead of 'L'</problem_class>
+  <description>'long' literal &lt;code&gt;1l&lt;/code&gt; ends with lowercase 'l' #loc</description>
+  <highlighted_element>1l</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/domain/ProductTest.java</file>
+  <line>115</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.ProductTest void testEquals()" />
+  <problem_class id="LongLiteralsEndingWithLowercaseL" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'long' literal ending with 'l' instead of 'L'</problem_class>
+  <description>'long' literal &lt;code&gt;1l&lt;/code&gt; ends with lowercase 'l' #loc</description>
+  <highlighted_element>1l</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/domain/ProductTest.java</file>
+  <line>117</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.ProductTest void testEquals()" />
+  <problem_class id="LongLiteralsEndingWithLowercaseL" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'long' literal ending with 'l' instead of 'L'</problem_class>
+  <description>'long' literal &lt;code&gt;1l&lt;/code&gt; ends with lowercase 'l' #loc</description>
+  <highlighted_element>1l</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/domain/ProductTest.java</file>
+  <line>123</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.ProductTest void testHashCode()" />
+  <problem_class id="LongLiteralsEndingWithLowercaseL" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'long' literal ending with 'l' instead of 'L'</problem_class>
+  <description>'long' literal &lt;code&gt;1l&lt;/code&gt; ends with lowercase 'l' #loc</description>
+  <highlighted_element>1l</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/domain/ProductTest.java</file>
+  <line>125</line>
+  <module>demo</module>
+  <package>com.example.demo.domain</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.domain.ProductTest void testHashCode()" />
+  <problem_class id="LongLiteralsEndingWithLowercaseL" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'long' literal ending with 'l' instead of 'L'</problem_class>
+  <description>'long' literal &lt;code&gt;1l&lt;/code&gt; ends with lowercase 'l' #loc</description>
+  <highlighted_element>1l</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>2</length>
+</problem>
+</problems>

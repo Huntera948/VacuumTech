@@ -1,0 +1,1142 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>33</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Xrunjdwp'</description>
+  <highlighted_element>Xrunjdwp</highlighted_element>
+  <language>Shell Script</language>
+  <offset>32</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>34</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mavenrc'</description>
+  <highlighted_element>mavenrc</highlighted_element>
+  <language>Shell Script</language>
+  <offset>47</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>47</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mavenrc'</description>
+  <highlighted_element>mavenrc</highlighted_element>
+  <language>Shell Script</language>
+  <offset>18</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>48</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mavenrc'</description>
+  <highlighted_element>mavenrc</highlighted_element>
+  <language>Shell Script</language>
+  <offset>14</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>61</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'libexec'</description>
+  <highlighted_element>libexec</highlighted_element>
+  <language>Shell Script</language>
+  <offset>15</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>64</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'libexec'</description>
+  <highlighted_element>libexec</highlighted_element>
+  <language>Shell Script</language>
+  <offset>20</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>94</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'saveddir'</description>
+  <highlighted_element>saveddir</highlighted_element>
+  <language>Shell Script</language>
+  <offset>2</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>147</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'JAVACMD'</description>
+  <highlighted_element>JAVACMD</highlighted_element>
+  <language>Shell Script</language>
+  <offset>6</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>149</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'JAVACMD'</description>
+  <highlighted_element>JAVACMD</highlighted_element>
+  <language>Shell Script</language>
+  <offset>6</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>152</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'JAVACMD'</description>
+  <highlighted_element>JAVACMD</highlighted_element>
+  <language>Shell Script</language>
+  <offset>4</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>166</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'CLASSWORLDS'</description>
+  <highlighted_element>CLASSWORLDS</highlighted_element>
+  <language>Shell Script</language>
+  <offset>0</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>179</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'wdir'</description>
+  <highlighted_element>wdir</highlighted_element>
+  <language>Shell Script</language>
+  <offset>2</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>185</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'JBEAP'</description>
+  <highlighted_element>JBEAP</highlighted_element>
+  <language>Shell Script</language>
+  <offset>21</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>187</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'wdir'</description>
+  <highlighted_element>wdir</highlighted_element>
+  <language>Shell Script</language>
+  <offset>6</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>285</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'PROJECTBASEDIR'</description>
+  <highlighted_element>PROJECTBASEDIR</highlighted_element>
+  <language>Shell Script</language>
+  <offset>13</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>300</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'PROJECTBASEDIR'</description>
+  <highlighted_element>PROJECTBASEDIR</highlighted_element>
+  <language>Shell Script</language>
+  <offset>10</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>314</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Dmaven'</description>
+  <highlighted_element>Dmaven</highlighted_element>
+  <language>Shell Script</language>
+  <offset>4</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw</file>
+  <line>315</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Dmaven'</description>
+  <highlighted_element>Dmaven</highlighted_element>
+  <language>Shell Script</language>
+  <offset>4</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>32</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Xrunjdwp'</description>
+  <highlighted_element>Xrunjdwp</highlighted_element>
+  <language>textmate</language>
+  <offset>29</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>33</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mavenrc'</description>
+  <highlighted_element>mavenrc</highlighted_element>
+  <language>textmate</language>
+  <offset>48</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>44</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'HOMEDRIVE'</description>
+  <highlighted_element>HOMEDRIVE</highlighted_element>
+  <language>textmate</language>
+  <offset>30</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>44</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'HOMEPATH'</description>
+  <highlighted_element>HOMEPATH</highlighted_element>
+  <language>textmate</language>
+  <offset>41</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>53</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'setlocal'</description>
+  <highlighted_element>setlocal</highlighted_element>
+  <language>textmate</language>
+  <offset>1</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>88</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'PROJECTBASEDIR'</description>
+  <highlighted_element>PROJECTBASEDIR</highlighted_element>
+  <language>textmate</language>
+  <offset>10</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>92</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'WDIR'</description>
+  <highlighted_element>WDIR</highlighted_element>
+  <language>textmate</language>
+  <offset>4</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>114</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'usebackq'</description>
+  <highlighted_element>usebackq</highlighted_element>
+  <language>textmate</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>114</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'delims'</description>
+  <highlighted_element>delims</highlighted_element>
+  <language>textmate</language>
+  <offset>17</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>115</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'endlocal'</description>
+  <highlighted_element>endlocal</highlighted_element>
+  <language>textmate</language>
+  <offset>1</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>132</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'MVNW'</description>
+  <highlighted_element>MVNW</highlighted_element>
+  <language>textmate</language>
+  <offset>9</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>136</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'REPOURL'</description>
+  <highlighted_element>REPOURL</highlighted_element>
+  <language>textmate</language>
+  <offset>18</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>166</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Dmaven'</description>
+  <highlighted_element>Dmaven</highlighted_element>
+  <language>textmate</language>
+  <offset>4</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/mvnw.cmd</file>
+  <line>168</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/mvnw.cmd" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'ERRORLEVEL'</description>
+  <highlighted_element>ERRORLEVEL</highlighted_element>
+  <language>textmate</language>
+  <offset>3</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/oldREADME.md</file>
+  <line>13</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/oldREADME.md" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'proejct'</description>
+  <highlighted_element>proejct</highlighted_element>
+  <language>Markdown</language>
+  <offset>335</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddInhousePartController.java</file>
+  <line>30</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddInhousePartController java.lang.String showFormAddInhousePart(org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'inhousepart'</description>
+  <highlighted_element>inhousepart</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddInhousePartController.java</file>
+  <line>35</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddInhousePartController java.lang.String submitForm(com.example.demo.domain.InhousePart part, org.springframework.validation.BindingResult bindingResult, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'inhousepart'</description>
+  <highlighted_element>inhousepart</highlighted_element>
+  <language>JAVA</language>
+  <offset>53</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddInhousePartController.java</file>
+  <line>48</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddInhousePartController java.lang.String submitForm(com.example.demo.domain.InhousePart part, org.springframework.validation.BindingResult bindingResult, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'confirmationaddpart'</description>
+  <highlighted_element>confirmationaddpart</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddOutsourcedPartController.java</file>
+  <line>30</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddOutsourcedPartController java.lang.String showFormAddOutsourcedPart(org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'outsourcedpart'</description>
+  <highlighted_element>outsourcedpart</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddOutsourcedPartController.java</file>
+  <line>35</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddOutsourcedPartController java.lang.String submitForm(com.example.demo.domain.OutsourcedPart part, org.springframework.validation.BindingResult bindingResult, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'outsourcedpart'</description>
+  <highlighted_element>outsourcedpart</highlighted_element>
+  <language>JAVA</language>
+  <offset>53</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddOutsourcedPartController.java</file>
+  <line>48</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddOutsourcedPartController java.lang.String submitForm(com.example.demo.domain.OutsourcedPart part, org.springframework.validation.BindingResult bindingResult, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'confirmationaddpart'</description>
+  <highlighted_element>confirmationaddpart</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java</file>
+  <line>33</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddPartController java.lang.String showPartFormForUpdate(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Outsourcedrepo'</description>
+  <highlighted_element>Outsourcedrepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java</file>
+  <line>34</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddPartController java.lang.String showPartFormForUpdate(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Inhouserepo'</description>
+  <highlighted_element>Inhouserepo</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java</file>
+  <line>41</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddPartController java.lang.String showPartFormForUpdate(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'formtype'</description>
+  <highlighted_element>formtype</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java</file>
+  <line>49</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddPartController java.lang.String showPartFormForUpdate(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Outsourcedpart'</description>
+  <highlighted_element>Outsourcedpart</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java</file>
+  <line>55</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddPartController java.lang.String deletePart(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'deletepart'</description>
+  <highlighted_element>deletepart</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java</file>
+  <line>61</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddPartController java.lang.String deletePart(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'confirmationdeletepart'</description>
+  <highlighted_element>confirmationdeletepart</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java</file>
+  <line>64</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddPartController java.lang.String deletePart(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'negativeerror'</description>
+  <highlighted_element>negativeerror</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>46</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String showFormAddPart(org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'availparts'</description>
+  <highlighted_element>availparts</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>47</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String showFormAddPart(org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'assparts'</description>
+  <highlighted_element>assparts</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>63</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String submitForm(com.example.demo.domain.Product product, org.springframework.validation.BindingResult bindingResult, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'availparts'</description>
+  <highlighted_element>availparts</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>64</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String submitForm(com.example.demo.domain.Product product, org.springframework.validation.BindingResult bindingResult, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'assparts'</description>
+  <highlighted_element>assparts</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>67</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String submitForm(com.example.demo.domain.Product product, org.springframework.validation.BindingResult bindingResult, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'assparts'</description>
+  <highlighted_element>assparts</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>69</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String submitForm(com.example.demo.domain.Product product, org.springframework.validation.BindingResult bindingResult, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'assparts'</description>
+  <highlighted_element>assparts</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>87</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String submitForm(com.example.demo.domain.Product product, org.springframework.validation.BindingResult bindingResult, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'confirmationaddproduct'</description>
+  <highlighted_element>confirmationaddproduct</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>98</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String showProductFormForUpdate(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'attibute'</description>
+  <highlighted_element>attibute</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>100</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String showProductFormForUpdate(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'assparts'</description>
+  <highlighted_element>assparts</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>105</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String showProductFormForUpdate(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'availparts'</description>
+  <highlighted_element>availparts</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>110</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String deleteProduct(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'deleteproduct'</description>
+  <highlighted_element>deleteproduct</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>122</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String deleteProduct(int theId, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'confirmationdeleteproduct'</description>
+  <highlighted_element>confirmationdeleteproduct</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>130</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String associatePart(int theID, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'associatepart'</description>
+  <highlighted_element>associatepart</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>135</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String associatePart(int theID, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'saveproductscreen'</description>
+  <highlighted_element>saveproductscreen</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>144</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String associatePart(int theID, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'assparts'</description>
+  <highlighted_element>assparts</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>149</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String associatePart(int theID, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'availparts'</description>
+  <highlighted_element>availparts</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>151</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String associatePart(int theID, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'confirmationassocpart'</description>
+  <highlighted_element>confirmationassocpart</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>153</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String removePart(int theID, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'removepart'</description>
+  <highlighted_element>removepart</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>163</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String removePart(int theID, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'assparts'</description>
+  <highlighted_element>assparts</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>168</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.AddProductController java.lang.String removePart(int theID, org.springframework.ui.Model theModel)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'availparts'</description>
+  <highlighted_element>availparts</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>24</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="class" FQNAME="com.example.demo.controllers.MainScreenControllerr" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Controllerr'</description>
+  <highlighted_element>Controllerr</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>34</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="class" FQNAME="com.example.demo.controllers.MainScreenControllerr" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Controllerr'</description>
+  <highlighted_element>Controllerr</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>43</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mainscreen'</description>
+  <highlighted_element>mainscreen</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>44</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Partsand'</description>
+  <highlighted_element>Partsand</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>44</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'partkeyword'</description>
+  <highlighted_element>partkeyword</highlighted_element>
+  <language>JAVA</language>
+  <offset>63</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>44</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'partkeyword'</description>
+  <highlighted_element>partkeyword</highlighted_element>
+  <language>JAVA</language>
+  <offset>84</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>44</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'productkeyword'</description>
+  <highlighted_element>productkeyword</highlighted_element>
+  <language>JAVA</language>
+  <offset>105</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>44</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'productkeyword'</description>
+  <highlighted_element>productkeyword</highlighted_element>
+  <language>JAVA</language>
+  <offset>129</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>48</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'partkeyword'</description>
+  <highlighted_element>partkeyword</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>52</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'productkeyword'</description>
+  <highlighted_element>productkeyword</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>53</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mainscreen'</description>
+  <highlighted_element>mainscreen</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>61</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String backToMain()" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mainscreen'</description>
+  <highlighted_element>mainscreen</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/ProductController.java</file>
+  <line>38</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.ProductController java.lang.String buyProduct(java.lang.Long productId, org.springframework.web.servlet.mvc.support.RedirectAttributes redirectAttributes)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'mainscreen'</description>
+  <highlighted_element>mainscreen</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/EnufPartsValidator.java</file>
+  <line>19</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="class" FQNAME="com.example.demo.validators.EnufPartsValidator" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Enuf'</description>
+  <highlighted_element>Enuf</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/ValidEnufParts.java</file>
+  <line>19</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="class" FQNAME="com.example.demo.validators.ValidEnufParts" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Enuf'</description>
+  <highlighted_element>Enuf</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/application.properties</file>
+  <line>7</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/application.properties" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'testdb'</description>
+  <highlighted_element>testdb</highlighted_element>
+  <language>Properties</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/templates/InhousePartForm.html</file>
+  <line>9</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/templates/InhousePartForm.html" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'jsdelivr'</description>
+  <highlighted_element>jsdelivr</highlighted_element>
+  <language>HTML</language>
+  <offset>28</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/templates/OutsourcedPartForm.html</file>
+  <line>9</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/templates/OutsourcedPartForm.html" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'jsdelivr'</description>
+  <highlighted_element>jsdelivr</highlighted_element>
+  <language>HTML</language>
+  <offset>28</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/templates/about.html</file>
+  <line>11</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/templates/about.html" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'jsdelivr'</description>
+  <highlighted_element>jsdelivr</highlighted_element>
+  <language>HTML</language>
+  <offset>28</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/templates/mainscreen.html</file>
+  <line>11</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/templates/mainscreen.html" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'jsdelivr'</description>
+  <highlighted_element>jsdelivr</highlighted_element>
+  <language>HTML</language>
+  <offset>28</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/templates/mainscreen.html</file>
+  <line>25</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/templates/mainscreen.html" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'partkeyword'</description>
+  <highlighted_element>partkeyword</highlighted_element>
+  <language>HTML</language>
+  <offset>41</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/templates/mainscreen.html</file>
+  <line>25</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/templates/mainscreen.html" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'partkeyword'</description>
+  <highlighted_element>partkeyword</highlighted_element>
+  <language>HTML</language>
+  <offset>58</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/templates/mainscreen.html</file>
+  <line>57</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/templates/mainscreen.html" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'productkeyword'</description>
+  <highlighted_element>productkeyword</highlighted_element>
+  <language>HTML</language>
+  <offset>41</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/templates/mainscreen.html</file>
+  <line>57</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/templates/mainscreen.html" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'productkeyword'</description>
+  <highlighted_element>productkeyword</highlighted_element>
+  <language>HTML</language>
+  <offset>61</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/templates/productForm.html</file>
+  <line>9</line>
+  <module>demo</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/templates/productForm.html" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'jsdelivr'</description>
+  <highlighted_element>jsdelivr</highlighted_element>
+  <language>HTML</language>
+  <offset>28</offset>
+  <length>8</length>
+</problem>
+</problems>

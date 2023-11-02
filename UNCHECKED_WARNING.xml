@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/repositories/InhousePartRepositoryTest.java</file>
+  <line>36</line>
+  <module>demo</module>
+  <package>com.example.demo.repositories</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.repositories.InhousePartRepositoryTest void findAll()" />
+  <problem_class id="UNCHECKED_WARNING" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+  <description>Unchecked call to 'add(E)' as a member of raw type 'java.util.List'</description>
+  <highlighted_element>partData.add</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/repositories/InhousePartRepositoryTest.java</file>
+  <line>37</line>
+  <module>demo</module>
+  <package>com.example.demo.repositories</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.repositories.InhousePartRepositoryTest void findAll()" />
+  <problem_class id="UNCHECKED_WARNING" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+  <description>Unchecked assignment: 'java.util.List' to 'java.lang.Iterable&lt;com.example.demo.domain.InhousePart&gt;'</description>
+  <highlighted_element>partData</highlighted_element>
+  <language>JAVA</language>
+  <offset>57</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/InhousePartServiceTest.java</file>
+  <line>40</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.InhousePartServiceTest void findAll()" />
+  <problem_class id="UNCHECKED_WARNING" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+  <description>Unchecked call to 'add(E)' as a member of raw type 'java.util.List'</description>
+  <highlighted_element>partData.add</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/InhousePartServiceTest.java</file>
+  <line>41</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.InhousePartServiceTest void findAll()" />
+  <problem_class id="UNCHECKED_WARNING" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+  <description>Unchecked assignment: 'java.util.List' to 'java.lang.Iterable&lt;com.example.demo.domain.InhousePart&gt;'</description>
+  <highlighted_element>partData</highlighted_element>
+  <language>JAVA</language>
+  <offset>57</offset>
+  <length>8</length>
+</problem>
+</problems>

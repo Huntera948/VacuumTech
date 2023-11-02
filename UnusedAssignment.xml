@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InhousePartServiceImpl.java</file>
+  <line>38</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.InhousePartServiceImpl com.example.demo.domain.InhousePart findById(int theId)" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;thePart&lt;/code&gt; initializer &lt;code&gt;null&lt;/code&gt; is redundant</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/OutsourcedPartServiceImpl.java</file>
+  <line>36</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.OutsourcedPartServiceImpl com.example.demo.domain.OutsourcedPart findById(int theId)" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;thePart&lt;/code&gt; initializer &lt;code&gt;null&lt;/code&gt; is redundant</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/PartServiceImpl.java</file>
+  <line>44</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.PartServiceImpl com.example.demo.domain.Part findById(int theId)" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;thePart&lt;/code&gt; initializer &lt;code&gt;null&lt;/code&gt; is redundant</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/ProductServiceImpl.java</file>
+  <line>39</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.service.ProductServiceImpl com.example.demo.domain.Product findById(int theId)" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;theProduct&lt;/code&gt; initializer &lt;code&gt;null&lt;/code&gt; is redundant</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>4</length>
+</problem>
+</problems>

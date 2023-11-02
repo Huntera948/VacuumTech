@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>30</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.AddProductController partService" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;partService&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>partService</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>28</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenControllerr partService" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;partService&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>partService</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>29</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenControllerr productService" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;productService&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>productService</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InhousePartServiceImpl.java</file>
+  <line>21</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.service.InhousePartServiceImpl partRepository" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;partRepository&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>partRepository</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/OutsourcedPartServiceImpl.java</file>
+  <line>19</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.service.OutsourcedPartServiceImpl partRepository" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;partRepository&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>partRepository</highlighted_element>
+  <language>JAVA</language>
+  <offset>37</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/ProductServiceImpl.java</file>
+  <line>21</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.service.ProductServiceImpl productRepository" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;productRepository&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>productRepository</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>17</length>
+</problem>
+</problems>

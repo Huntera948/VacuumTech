@@ -1,0 +1,102 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/demo.iml</file>
+  <module>demo</module>
+  <entry_point TYPE="module" FQNAME="demo" />
+  <problem_class id="VulnerableLibrariesGlobal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable imported dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;&lt;body&gt; Dependency maven:org.springframework:spring-context:5.3.18 is vulnerable, safe version 5.3.19 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2022-22968/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2022-22968&lt;/a&gt; 5.3 Improper Handling of Case Sensitivity vulnerability pending CVSS allocation &lt;/li&gt;&lt;/ul&gt;  Results powered by &lt;a href=&quot;https://checkmarx.com&quot;&gt;Checkmarx&lt;/a&gt;(c)&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/demo.iml</file>
+  <module>demo</module>
+  <entry_point TYPE="module" FQNAME="demo" />
+  <problem_class id="VulnerableLibrariesGlobal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable imported dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;&lt;body&gt; Dependency maven:org.springframework:spring-beans:5.3.18 is vulnerable, safe version 5.3.20 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2022-22970/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2022-22970&lt;/a&gt; 5.3 Allocation of Resources Without Limits or Throttling vulnerability pending CVSS allocation &lt;/li&gt;&lt;/ul&gt;  Results powered by &lt;a href=&quot;https://checkmarx.com&quot;&gt;Checkmarx&lt;/a&gt;(c)&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/demo.iml</file>
+  <module>demo</module>
+  <entry_point TYPE="module" FQNAME="demo" />
+  <problem_class id="VulnerableLibrariesGlobal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable imported dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;&lt;body&gt; Dependency maven:org.yaml:snakeyaml:1.29 is vulnerable, safe version 2.0 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2022-25857/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2022-25857&lt;/a&gt; 7.5 Uncontrolled Resource Consumption vulnerability pending CVSS allocation &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2022-38752?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&amp;amp;utm_term=maven&quot;&gt;CVE-2022-38752&lt;/a&gt; 6.5 Out-of-bounds Write vulnerability with medium severity found &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2022-38749/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2022-38749&lt;/a&gt; 6.5 Out-of-bounds Write vulnerability pending CVSS allocation &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2022-38750/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2022-38750&lt;/a&gt; 5.5 Out-of-bounds Write vulnerability pending CVSS allocation &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2022-38751/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2022-38751&lt;/a&gt; 6.5 Out-of-bounds Write vulnerability pending CVSS allocation &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2022-41854?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&amp;amp;utm_term=maven&quot;&gt;CVE-2022-41854&lt;/a&gt; 6.5 Out-of-bounds Write vulnerability with medium severity found &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2022-1471?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&amp;amp;utm_term=maven&quot;&gt;CVE-2022-1471&lt;/a&gt; 9.8 Deserialization of Untrusted Data vulnerability with high severity found &lt;/li&gt;&lt;/ul&gt;  Results powered by &lt;a href=&quot;https://checkmarx.com&quot;&gt;Checkmarx&lt;/a&gt;(c)&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/demo.iml</file>
+  <module>demo</module>
+  <entry_point TYPE="module" FQNAME="demo" />
+  <problem_class id="VulnerableLibrariesGlobal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable imported dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;&lt;body&gt; Dependency maven:com.fasterxml.jackson.core:jackson-databind:2.13.2.2 is vulnerable, safe version 2.13.4.1 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2022-42003/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2022-42003&lt;/a&gt; 7.5 Deserialization of Untrusted Data vulnerability pending CVSS allocation &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2022-42004/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2022-42004&lt;/a&gt; 7.5 Deserialization of Untrusted Data vulnerability pending CVSS allocation &lt;/li&gt;&lt;/ul&gt;  Results powered by &lt;a href=&quot;https://checkmarx.com&quot;&gt;Checkmarx&lt;/a&gt;(c)&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/demo.iml</file>
+  <module>demo</module>
+  <entry_point TYPE="module" FQNAME="demo" />
+  <problem_class id="VulnerableLibrariesGlobal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable imported dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;&lt;body&gt; Dependency maven:org.apache.tomcat.embed:tomcat-embed-core:9.0.60 is vulnerable, safe version 9.0.73 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2021-43980/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2021-43980&lt;/a&gt; 3.7 Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') vulnerability pending CVSS allocation &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2022-42252/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2022-42252&lt;/a&gt; 7.5 Inconsistent Interpretation of HTTP Requests ('HTTP Request Smuggling') vulnerability pending CVSS allocation &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2023-28708/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2023-28708&lt;/a&gt; 4.3 Unprotected Transport of Credentials vulnerability pending CVSS allocation &lt;/li&gt;&lt;/ul&gt;  Results powered by &lt;a href=&quot;https://checkmarx.com&quot;&gt;Checkmarx&lt;/a&gt;(c)&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/demo.iml</file>
+  <module>demo</module>
+  <entry_point TYPE="module" FQNAME="demo" />
+  <problem_class id="VulnerableLibrariesGlobal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable imported dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;&lt;body&gt; Dependency maven:org.springframework:spring-web:5.3.18 is vulnerable, safe version 6.0.0 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2016-1000027/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2016-1000027&lt;/a&gt; 9.8 Deserialization of Untrusted Data vulnerability pending CVSS allocation &lt;/li&gt;&lt;/ul&gt;  Results powered by &lt;a href=&quot;https://checkmarx.com&quot;&gt;Checkmarx&lt;/a&gt;(c)&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/demo.iml</file>
+  <module>demo</module>
+  <entry_point TYPE="module" FQNAME="demo" />
+  <problem_class id="VulnerableLibrariesGlobal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable imported dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;&lt;body&gt; Dependency maven:org.springframework:spring-webmvc:5.3.18 is vulnerable, safe version 6.0.9 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2016-1000027/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2016-1000027&lt;/a&gt; 9.8 Deserialization of Untrusted Data vulnerability pending CVSS allocation &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2023-20860?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&amp;amp;utm_term=maven&quot;&gt;CVE-2023-20860&lt;/a&gt; 7.5 Improper Neutralization of Wildcards or Matching Symbols vulnerability with medium severity found &lt;/li&gt;&lt;/ul&gt;  Results powered by &lt;a href=&quot;https://checkmarx.com&quot;&gt;Checkmarx&lt;/a&gt;(c)&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/demo.iml</file>
+  <module>demo</module>
+  <entry_point TYPE="module" FQNAME="demo" />
+  <problem_class id="VulnerableLibrariesGlobal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable imported dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;&lt;body&gt; Dependency maven:org.springframework:spring-expression:5.3.18 is vulnerable &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2023-20863/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2023-20863&lt;/a&gt; 6.5 Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection') vulnerability pending CVSS allocation &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://checkmarx.com&quot;&gt;Checkmarx&lt;/a&gt;(c)&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/demo.iml</file>
+  <module>demo</module>
+  <entry_point TYPE="module" FQNAME="demo" />
+  <problem_class id="VulnerableLibrariesGlobal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable imported dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;&lt;body&gt; Dependency maven:org.springframework.boot:spring-boot-autoconfigure:2.6.6 is vulnerable, safe version 3.1.0 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2023-20883/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2023-20883&lt;/a&gt; 7.5 Uncontrolled Resource Consumption vulnerability pending CVSS allocation &lt;/li&gt;&lt;/ul&gt;  Results powered by &lt;a href=&quot;https://checkmarx.com&quot;&gt;Checkmarx&lt;/a&gt;(c)&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/demo.iml</file>
+  <module>demo</module>
+  <entry_point TYPE="module" FQNAME="demo" />
+  <problem_class id="VulnerableLibrariesGlobal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable imported dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;&lt;body&gt; Dependency maven:net.minidev:json-smart:2.4.8 is vulnerable, safe version 2.4.9 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://devhub.checkmarx.com/cve-details/CVE-2023-1370/?utm_source=jetbrains&amp;amp;utm_medium=referral&amp;amp;utm_campaign=idea&quot;&gt;CVE-2023-1370&lt;/a&gt; 7.5 Uncontrolled Recursion vulnerability pending CVSS allocation &lt;/li&gt;&lt;/ul&gt;  Results powered by &lt;a href=&quot;https://checkmarx.com&quot;&gt;Checkmarx&lt;/a&gt;(c)&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+</problems>

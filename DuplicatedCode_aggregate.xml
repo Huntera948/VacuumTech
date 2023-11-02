@@ -1,0 +1,15 @@
+<root>
+<duplicate cost="1" hash="0">
+  <fragment file="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java" line="42" start="1235" end="1542" />
+  <fragment file="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java" line="59" start="2050" end="2383" />
+</duplicate>
+<duplicate cost="1" hash="0">
+  <fragment file="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java" line="99" start="3786" end="4185" />
+  <fragment file="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java" line="143" start="5569" end="5930" />
+  <fragment file="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java" line="162" start="6504" end="6865" />
+</duplicate>
+<duplicate cost="1" hash="0">
+  <fragment file="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java" line="140" start="5392" end="5930" />
+  <fragment file="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java" line="159" start="6327" end="6865" />
+</duplicate>
+</root>

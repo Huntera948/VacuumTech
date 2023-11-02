@@ -1,0 +1,296 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java</file>
+  <line>6</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.repositories.PartRepository;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.repositories.PartRepository;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>52</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java</file>
+  <line>12</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import org.springframework.validation.BindingResult;&lt;/code&gt; #loc</description>
+  <highlighted_element>import org.springframework.validation.BindingResult;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>52</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>5</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.repositories.PartRepository;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.repositories.PartRepository;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>52</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java</file>
+  <line>6</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/MainScreenControllerr.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.repositories.ProductRepository;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.repositories.ProductRepository;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>55</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/repositories/PartRepository.java</file>
+  <line>4</line>
+  <module>demo</module>
+  <package>com.example.demo.repositories</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/repositories/PartRepository.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.domain.Product;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.domain.Product;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>39</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InhousePartService.java</file>
+  <line>4</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InhousePartService.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.domain.OutsourcedPart;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.domain.OutsourcedPart;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>46</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InhousePartService.java</file>
+  <line>5</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InhousePartService.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.domain.Part;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.domain.Part;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>36</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InhousePartServiceImpl.java</file>
+  <line>4</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InhousePartServiceImpl.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.domain.OutsourcedPart;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.domain.OutsourcedPart;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>46</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InhousePartServiceImpl.java</file>
+  <line>6</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InhousePartServiceImpl.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.repositories.OutsourcedPartRepository;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.repositories.OutsourcedPartRepository;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>62</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/OutsourcedPartService.java</file>
+  <line>4</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/service/OutsourcedPartService.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.domain.Part;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.domain.Part;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>36</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/PartService.java</file>
+  <line>4</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/service/PartService.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.domain.Product;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.domain.Product;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>39</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/PartServiceImpl.java</file>
+  <line>4</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/service/PartServiceImpl.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.domain.Product;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.domain.Product;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>39</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/ProductService.java</file>
+  <line>3</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/service/ProductService.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.domain.Part;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.domain.Part;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>36</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/ProductServiceImpl.java</file>
+  <line>3</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/service/ProductServiceImpl.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.domain.Part;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.domain.Part;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>36</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/ProductServiceImpl.java</file>
+  <line>5</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/service/ProductServiceImpl.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.repositories.PartRepository;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.repositories.PartRepository;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>52</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/DeletePartValidator.java</file>
+  <line>4</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/DeletePartValidator.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.domain.Product;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.domain.Product;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>39</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/PriceProductValidator.java</file>
+  <line>5</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/PriceProductValidator.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.repositories.InhousePartRepository;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.repositories.InhousePartRepository;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>59</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/PriceProductValidator.java</file>
+  <line>6</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/PriceProductValidator.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.repositories.ProductRepository;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.repositories.ProductRepository;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>55</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/PriceProductValidator.java</file>
+  <line>7</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/PriceProductValidator.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.service.InhousePartServiceImpl;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.service.InhousePartServiceImpl;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>55</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/repositories/InhousePartRepositoryTest.java</file>
+  <line>4</line>
+  <module>demo</module>
+  <package>com.example.demo.repositories</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/test/java/com/example/demo/repositories/InhousePartRepositoryTest.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.service.PartServiceImpl;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.service.PartServiceImpl;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>48</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/com/example/demo/service/InhousePartServiceTest.java</file>
+  <line>5</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/test/java/com/example/demo/service/InhousePartServiceTest.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import com.example.demo.repositories.PartRepository;&lt;/code&gt; #loc</description>
+  <highlighted_element>import com.example.demo.repositories.PartRepository;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>52</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/EnufPartsValidator.java</file>
+  <line>33</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.validators.EnufPartsValidator boolean isValid(com.example.demo.domain.Product product, javax.validation.ConstraintValidatorContext constraintValidatorContext)" />
+  <problem_class id="IfStatementWithIdenticalBranches" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">'if' statement with identical branches</problem_class>
+  <description>Common part can be extracted removing branch</description>
+  <highlighted_element>if</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>2</length>
+</problem>
+</problems>

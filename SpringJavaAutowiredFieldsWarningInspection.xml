@@ -1,0 +1,93 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddInhousePartController.java</file>
+  <line>24</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.AddInhousePartController context" />
+  <problem_class id="SpringJavaAutowiredFieldsWarningInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Non recommended 'field' injections</problem_class>
+  <description>Field injection is not recommended</description>
+  <highlighted_element>@Autowired</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddOutsourcedPartController.java</file>
+  <line>24</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.AddOutsourcedPartController context" />
+  <problem_class id="SpringJavaAutowiredFieldsWarningInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Non recommended 'field' injections</problem_class>
+  <description>Field injection is not recommended</description>
+  <highlighted_element>@Autowired</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddPartController.java</file>
+  <line>26</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.AddPartController context" />
+  <problem_class id="SpringJavaAutowiredFieldsWarningInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Non recommended 'field' injections</problem_class>
+  <description>Field injection is not recommended</description>
+  <highlighted_element>@Autowired</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/AddProductController.java</file>
+  <line>28</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.AddProductController context" />
+  <problem_class id="SpringJavaAutowiredFieldsWarningInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Non recommended 'field' injections</problem_class>
+  <description>Field injection is not recommended</description>
+  <highlighted_element>@Autowired</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/controllers/ProductController.java</file>
+  <line>14</line>
+  <module>demo</module>
+  <package>com.example.demo.controllers</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.ProductController productRepository" />
+  <problem_class id="SpringJavaAutowiredFieldsWarningInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Non recommended 'field' injections</problem_class>
+  <description>Field injection is not recommended</description>
+  <highlighted_element>@Autowired</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InventoryService.java</file>
+  <line>18</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.service.InventoryService partRepository" />
+  <problem_class id="SpringJavaAutowiredFieldsWarningInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Non recommended 'field' injections</problem_class>
+  <description>Field injection is not recommended</description>
+  <highlighted_element>@Autowired</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/InventoryService.java</file>
+  <line>21</line>
+  <module>demo</module>
+  <package>com.example.demo.service</package>
+  <entry_point TYPE="field" FQNAME="com.example.demo.service.InventoryService productRepository" />
+  <problem_class id="SpringJavaAutowiredFieldsWarningInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Non recommended 'field' injections</problem_class>
+  <description>Field injection is not recommended</description>
+  <highlighted_element>@Autowired</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>10</length>
+</problem>
+</problems>

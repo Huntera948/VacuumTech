@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/EnufPartsValidator.java</file>
+  <line>31</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.validators.EnufPartsValidator boolean isValid(com.example.demo.domain.Product product, javax.validation.ConstraintValidatorContext constraintValidatorContext)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;context!=null&lt;/code&gt; is always &lt;code&gt;true&lt;/code&gt;</description>
+  <highlighted_element>context!=null</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/com/example/demo/validators/PriceProductValidator.java</file>
+  <line>36</line>
+  <module>demo</module>
+  <package>com.example.demo.validators</package>
+  <entry_point TYPE="method" FQNAME="com.example.demo.validators.PriceProductValidator boolean isValid(com.example.demo.domain.Product product, javax.validation.ConstraintValidatorContext constraintValidatorContext)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;context!=null&lt;/code&gt; is always &lt;code&gt;true&lt;/code&gt;</description>
+  <highlighted_element>context!=null</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>13</length>
+</problem>
+</problems>
