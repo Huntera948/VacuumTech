@@ -88,7 +88,7 @@
   <line>44</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
   <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
   <hints />
   <description>Method &lt;code&gt;listPartsandProducts()&lt;/code&gt; always returns &lt;code&gt;mainscreen&lt;/code&gt;</description>
@@ -102,7 +102,7 @@
   <line>56</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String about()" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String about()" />
   <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
   <hints />
   <description>Method &lt;code&gt;about()&lt;/code&gt; always returns &lt;code&gt;about&lt;/code&gt;</description>
@@ -116,7 +116,7 @@
   <line>60</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String backToMain()" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String backToMain()" />
   <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
   <hints />
   <description>Method &lt;code&gt;backToMain()&lt;/code&gt; always returns &lt;code&gt;redirect:/mainscreen&lt;/code&gt;</description>

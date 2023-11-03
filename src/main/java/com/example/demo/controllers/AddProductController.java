@@ -12,19 +12,12 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
-
-import javax.validation.Valid;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.GetMapping;
+import javax.validation.Valid;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- *
- *
- *
- */
 @Controller
 public class AddProductController {
     @Autowired
@@ -68,9 +61,6 @@ public class AddProductController {
             theModel.addAttribute("assparts",product2.getParts());
             return "productForm";
         }
- //       theModel.addAttribute("assparts", assparts);
- //       this.product=product;
-//        product.getParts().addAll(assparts);
         else {
             ProductService repo = context.getBean(ProductServiceImpl.class);
             if(product.getId()!=0) {
@@ -98,7 +88,6 @@ public class AddProductController {
         ProductService repo = context.getBean(ProductServiceImpl.class);
         Product theProduct = repo.findById(theId);
         product1=theProduct;
-    //    this.product=product;
         theModel.addAttribute("product", theProduct);
         theModel.addAttribute("assparts",theProduct.getParts());
         List<Part>availParts=new ArrayList<>();
@@ -120,7 +109,6 @@ public class AddProductController {
         product2.getParts().removeAll(product2.getParts());
         productService.save(product2);
         productService.deleteById(theId);
-
         return "confirmationdeleteproduct";
     }
 
@@ -129,8 +117,6 @@ public class AddProductController {
     }
     @GetMapping("/associatepart")
     public String associatePart(@Valid @RequestParam("partID") int theID, Model theModel){
-    //    theModel.addAttribute("product", product);
-    //    Product product1=new Product();
         Part part = partService.findById(theID);
         try {
             product1.addPart(part);
@@ -139,7 +125,6 @@ public class AddProductController {
             part.getProducts().add(product1);
             productService.save(product1);
             partService.save(part);
-
             theModel.addAttribute("product", product1);
             theModel.addAttribute("assparts", product1.getParts());
 
@@ -161,7 +146,6 @@ public class AddProductController {
         product1.removePart(part);
         partService.save(part);
         theModel.addAttribute("product", product);
-      //  Product product1=new Product();
         product1.getParts().remove(partService.findById(theID));
         partService.findById(theID).getProducts().remove(product1);
         ProductService productService = context.getBean(ProductServiceImpl.class);

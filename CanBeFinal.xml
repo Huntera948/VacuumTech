@@ -18,7 +18,7 @@
   <line>28</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenControllerr partService" />
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenController partService" />
   <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
   <hints />
   <description>Declaration can have final modifier</description>
@@ -32,7 +32,7 @@
   <line>29</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenControllerr productService" />
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenController productService" />
   <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
   <hints />
   <description>Declaration can have final modifier</description>

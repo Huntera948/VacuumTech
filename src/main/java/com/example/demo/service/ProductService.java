@@ -1,16 +1,8 @@
 package com.example.demo.service;
 
-import com.example.demo.domain.Part;
 import com.example.demo.domain.Product;
-
 import java.util.List;
 
-/**
- *
- *
- *
- *
- */
 public interface ProductService {
     String validateInventory(Product product);
     public List<Product> findAll();

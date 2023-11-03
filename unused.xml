@@ -35,7 +35,7 @@
   <line>31</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenControllerr theParts" />
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenController theParts" />
   <language>JAVA</language>
   <offset>23</offset>
   <length>8</length>
@@ -52,7 +52,7 @@
   <line>32</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenControllerr theProducts" />
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenController theProducts" />
   <language>JAVA</language>
   <offset>26</offset>
   <length>11</length>

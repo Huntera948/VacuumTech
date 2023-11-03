@@ -429,7 +429,7 @@
   <line>24</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="class" FQNAME="com.example.demo.controllers.MainScreenControllerr" />
+  <entry_point TYPE="class" FQNAME="com.example.demo.controllers.MainScreenController" />
   <language>JAVA</language>
   <offset>13</offset>
   <length>21</length>
@@ -446,7 +446,7 @@
   <line>39</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr MainScreenControllerr(com.example.demo.service.PartService partService, com.example.demo.service.ProductService productService)" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController MainScreenControllerr(com.example.demo.service.PartService partService, com.example.demo.service.ProductService productService)" />
   <language>JAVA</language>
   <offset>11</offset>
   <length>21</length>
@@ -463,7 +463,7 @@
   <line>44</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
   <language>JAVA</language>
   <offset>18</offset>
   <length>20</length>
@@ -480,7 +480,7 @@
   <line>56</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String about()" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String about()" />
   <language>JAVA</language>
   <offset>18</offset>
   <length>5</length>
@@ -497,7 +497,7 @@
   <line>60</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String backToMain()" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String backToMain()" />
   <language>JAVA</language>
   <offset>18</offset>
   <length>10</length>

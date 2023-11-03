@@ -829,7 +829,7 @@
   <line>24</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="class" FQNAME="com.example.demo.controllers.MainScreenControllerr" />
+  <entry_point TYPE="class" FQNAME="com.example.demo.controllers.MainScreenController" />
   <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
   <description>Typo: In word 'Controllerr'</description>
   <highlighted_element>Controllerr</highlighted_element>
@@ -842,7 +842,7 @@
   <line>34</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="class" FQNAME="com.example.demo.controllers.MainScreenControllerr" />
+  <entry_point TYPE="class" FQNAME="com.example.demo.controllers.MainScreenController" />
   <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
   <description>Typo: In word 'Controllerr'</description>
   <highlighted_element>Controllerr</highlighted_element>
@@ -855,7 +855,7 @@
   <line>43</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
   <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
   <description>Typo: In word 'mainscreen'</description>
   <highlighted_element>mainscreen</highlighted_element>
@@ -868,7 +868,7 @@
   <line>44</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
   <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
   <description>Typo: In word 'Partsand'</description>
   <highlighted_element>Partsand</highlighted_element>
@@ -881,7 +881,7 @@
   <line>44</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
   <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
   <description>Typo: In word 'partkeyword'</description>
   <highlighted_element>partkeyword</highlighted_element>
@@ -894,7 +894,7 @@
   <line>44</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
   <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
   <description>Typo: In word 'partkeyword'</description>
   <highlighted_element>partkeyword</highlighted_element>
@@ -907,7 +907,7 @@
   <line>44</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
   <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
   <description>Typo: In word 'productkeyword'</description>
   <highlighted_element>productkeyword</highlighted_element>
@@ -920,7 +920,7 @@
   <line>44</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
   <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
   <description>Typo: In word 'productkeyword'</description>
   <highlighted_element>productkeyword</highlighted_element>
@@ -933,7 +933,7 @@
   <line>48</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
   <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
   <description>Typo: In word 'partkeyword'</description>
   <highlighted_element>partkeyword</highlighted_element>
@@ -946,7 +946,7 @@
   <line>52</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
   <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
   <description>Typo: In word 'productkeyword'</description>
   <highlighted_element>productkeyword</highlighted_element>
@@ -959,7 +959,7 @@
   <line>53</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String listPartsandProducts(org.springframework.ui.Model theModel, java.lang.String partkeyword, java.lang.String productkeyword)" />
   <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
   <description>Typo: In word 'mainscreen'</description>
   <highlighted_element>mainscreen</highlighted_element>
@@ -972,7 +972,7 @@
   <line>61</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenControllerr java.lang.String backToMain()" />
+  <entry_point TYPE="method" FQNAME="com.example.demo.controllers.MainScreenController java.lang.String backToMain()" />
   <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
   <description>Typo: In word 'mainscreen'</description>
   <highlighted_element>mainscreen</highlighted_element>

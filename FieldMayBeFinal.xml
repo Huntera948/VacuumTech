@@ -17,7 +17,7 @@
   <line>28</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenControllerr partService" />
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenController partService" />
   <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
   <description>Field &lt;code&gt;partService&lt;/code&gt; may be 'final' #loc</description>
   <highlighted_element>partService</highlighted_element>
@@ -30,7 +30,7 @@
   <line>29</line>
   <module>demo</module>
   <package>com.example.demo.controllers</package>
-  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenControllerr productService" />
+  <entry_point TYPE="field" FQNAME="com.example.demo.controllers.MainScreenController productService" />
   <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
   <description>Field &lt;code&gt;productService&lt;/code&gt; may be 'final' #loc</description>
   <highlighted_element>productService</highlighted_element>
